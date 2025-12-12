@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdtbG44YXB6ZWYyZHNodWxqbnVzM2R1ZjJkd3NrbmZrZGI2cGswMiZlcD12MV9zZWFyY2g/gJRpVf9iH0C3K/giphy.gif" width="100%" alt="The Node Forge Banner"/>
-</p>
 
 <h1 align="center">🔥 THE NODE FORGE 🔥</h1>
 <p align="center">Where decentralized minds converge, create, and evolve.</p>
@@ -23,7 +20,7 @@ we forge stronger ideas, stronger tools, and a stronger community.
 ##  What We Do
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZsb3FsY3dqNjY0aXdwN3g0bW51dWJxMXM3cXk3Z3A5aWxicmk4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOKrXLf9N5g76/giphy.gif)" width="180px"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZsb3FsY3dqNjY0aXdwN3g0bW51dWJxMXM3cXk3Z3A5aWxicmk4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOKrXLf9N5g76/giphy.gif" width="180px"/>
 </p>
 
 - 🛠 **Build** open-source blockchain tools & experiments  

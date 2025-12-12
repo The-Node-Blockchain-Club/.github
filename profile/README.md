@@ -1,18 +1,99 @@
-# 💫 About Me:
-We at The Node Forge are a group of learners, developers, and emerging innovators dedicated to exploring the evolving landscape of blockchain and decentralized systems.<br>As an exclusive club, we create, develop, contribute, and—most importantly—learn together.<br>With each step, we grow in skill and perspective, and with that growth we forge stronger ideas, stronger tools, and a stronger community.
+<!-- Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdtbG44YXB6ZWYyZHNodWxqbnVzM2R1ZjJkd3NrbmZrZGI2cGswMiZlcD12MV9zZWFyY2g/gJRpVf9iH0C3K/giphy.gif" width="100%" alt="The Node Forge Banner"/>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=The Node : Blockchain Club&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=The Node : Blockchain Club&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=The Node : Blockchain Club&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=The Node : Blockchain Club&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=The Node : Blockchain Club&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">🔥 THE NODE FORGE 🔥</h1>
+<p align="center">Where decentralized minds converge, create, and evolve.</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=The Node : Blockchain Club&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧱 About Us
+
+We at **The Node Forge** are a group of learners, developers, and emerging innovators  
+dedicated to exploring the evolving landscape of blockchain and decentralized systems.  
+
+As an exclusive club, we create, develop, contribute, and—most importantly—learn together.  
+
+With each step, we grow in skill and perspective, and with that growth  
+we forge stronger ideas, stronger tools, and a stronger community.
+
+---
+
+## ⚡ What We Do
+
+<p align="center">
+  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="180px"/>
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="180px"/>
+  <img src="https://media.giphy.com/media/TOWeXx0rj3TTq/giphy.gif" width="180px"/>
+</p>
+
+- 🛠 **Build** open-source blockchain tools & experiments  
+- 🔐 **Explore** cryptography, distributed systems, and Web3 protocols  
+- 🧪 **Prototype** ideas, break them, rebuild them better  
+- ⚙️ **Contribute** to real-world decentralized technologies  
+- 🧭 **Guide** new members along their technical journey  
+- 🔥 **Forge** community, skill, and innovation  
+
+---
+
+## 🌀 Our Stack & Domains
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,go,ts,python,solidity,nodejs,docker,linux&theme=dark" />
+</p>
+
+**We explore:**
+
+- Blockchain architecture & consensus  
+- Smart contracts & security  
+- Zero-knowledge systems  
+- Distributed networks  
+- DeFi protocol mechanics  
+- Cryptographic research  
+- P2P tech & data availability  
+- Experimental Web3 tooling  
+
+---
+
+## 🕸 Featured Projects
+
+> Replace links with your actual repos once they exist.
+
+- 🔗 **ChainSim** — A decentralized network simulator  
+- 🛡 **ForgeGuard** — Smart contract auditing toolkit  
+- 🧩 **Modular-Node** — A customizable blockchain node template  
+
+---
+
+## 🧪 Join the Forge
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="250px"/>
+</p>
+
+The Node Forge is intentionally selective —  
+not to exclude, but to preserve a culture of discipline, curiosity, and deep technical growth.
+
+If you're here to build, explore, break limits, and learn with intention…  
+you’re already aligned with us.
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=black"/></a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Forged in curiosity. Tempered in code. Driven by decentralization.</strong>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200px"/>
+</p>

@@ -23,9 +23,7 @@ we forge stronger ideas, stronger tools, and a stronger community.
 ##  What We Do
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="180px"/>
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="180px"/>
-  <img src="https://media.giphy.com/media/TOWeXx0rj3TTq/giphy.gif" width="180px"/>
+  <img src="[https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZsb3FsY3dqNjY0aXdwN3g0bW51dWJxMXM3cXk3Z3A5aWxicmk4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOKrXLf9N5g76/giphy.gif)" width="180px"/>
 </p>
 
 - 🛠 **Build** open-source blockchain tools & experiments  

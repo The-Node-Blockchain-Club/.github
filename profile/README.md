@@ -53,7 +53,7 @@ we forge stronger ideas, stronger tools, and a stronger community.
 
 ## 🕸 Featured Projects
 
-> Replace links with your actual repos once they exist.
+> coming soon.
 
 
 ---

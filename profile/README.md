@@ -8,7 +8,7 @@
 
 ---
 
-## 🧱 About Us
+##  About Us
 
 We at **The Node Forge** are a group of learners, developers, and emerging innovators  
 dedicated to exploring the evolving landscape of blockchain and decentralized systems.  
@@ -20,7 +20,7 @@ we forge stronger ideas, stronger tools, and a stronger community.
 
 ---
 
-## ⚡ What We Do
+##  What We Do
 
 <p align="center">
   <img src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif" width="180px"/>
@@ -60,9 +60,6 @@ we forge stronger ideas, stronger tools, and a stronger community.
 
 > Replace links with your actual repos once they exist.
 
-- 🔗 **ChainSim** — A decentralized network simulator  
-- 🛡 **ForgeGuard** — Smart contract auditing toolkit  
-- 🧩 **Modular-Node** — A customizable blockchain node template  
 
 ---
 

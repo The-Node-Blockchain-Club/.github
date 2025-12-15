@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <h1 align="center">The Node - Blockchain Club</h1>
-<p align="center">Where decentralized minds converge, create, and evolve.</p>
+<p align="center">Node Forge</p>
 
 ---
 
